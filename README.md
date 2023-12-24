@@ -31,7 +31,9 @@ patterns. ✅
 ### Caption
 
 ✅: Done entirely
+
 🤏: Almost done
+
 ❌: Not done
 
 # Final strategy
