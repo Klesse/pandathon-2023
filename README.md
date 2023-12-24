@@ -13,7 +13,7 @@ with the data.
 
 The cities in Brazil has a URL common pattern:
 
-city.state.gov.br
+**city.state.gov.br**
 
 So, with the csv we were able to create a URL for all cities' websites.
 
