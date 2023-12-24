@@ -61,7 +61,10 @@ presentation to the judges.
 
 # Authors
 
-[Alexandre Gualberto]
-[Ana Carolina Castro Rosal]
+Alexandre Gualberto
+
+Ana Carolina Castro Rosal
+
 [Pedro Malandrin Klesse](www.github.com/Klesse)
-[Vitor Caligaris Figueira]
+
+Vitor Caligaris Figueira
