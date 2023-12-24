@@ -45,7 +45,7 @@ our dataset. We had to find a solution with time limit, so with the health
 secretaries we would have a scope to focus our presentation for the judges 
 and our exploratory data analysis on.
 
-# Used libraries
+# Python libraries used
 
 * Selenium
 * BeautifulSoup
